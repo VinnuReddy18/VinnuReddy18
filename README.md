@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinnureddy18" alt="vinnureddy18" /></a> </p>
 
-- 🔭 I’m currently working on **Student-Help-Bot**
+- 🔭 I’m currently working on **Resume AI**
 
-- 🌱 I’m currently learning **Node, React, MySQL**
+- 🌱 I’m currently learning **Next JS**
 
-- 📫 How to reach me **vinayreddygenai@gmail.com**
+- 📫 How to reach me **vinayreddyyedula@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
