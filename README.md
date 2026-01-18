@@ -8,13 +8,13 @@
 
 <br/>
 
-<a href="https://github.com/">
+<a href="https://github.com/VinnuReddy18">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/">
+<a href="https://www.linkedin.com/in/vinayreddy1829/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/vinayreddyyedula/">
   <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
